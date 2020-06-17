@@ -7,7 +7,9 @@ A graph located at the bottom of the page changes to reflect changes in funds ov
 *The The application itself was pre-developed by Triology; I developed the offline functionality by providing the web manifest and service worker.
 
 ## Technologies
-Frameworks/Libraries: MongoDB, Mongoose, Express
+Database: MongoDB
+
+Frameworks/Libraries: Mongoose, Express, Bootstrap
 
 ## Links
 [Deployed Application](https://whispering-harbor-04710.herokuapp.com/)
