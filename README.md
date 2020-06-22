@@ -9,7 +9,7 @@ A graph located at the bottom of the page changes to reflect changes in funds ov
 ## Technologies
 Database: MongoDB
 
-Frameworks/Libraries: Mongoose, Express, Bootstrap
+Frameworks/Libraries: Mongoose, Node, Express, Bootstrap
 
 ## Links
 [Deployed Application](https://whispering-harbor-04710.herokuapp.com/)
